@@ -14,8 +14,6 @@ I've built several functions in this project, but here's a quick overview of the
 
 🕵️‍♂️ Latest Tweet of User Function: Easily fetch the most recent tweets from a specific user.
 
-You can explore the code and project details on my GitHub repository: https://lnkd.in/dMMkT7na 🔗
-
 The project has been a great learning experience in Solidity and blockchain development. The aim was to showcase how decentralized apps (dApps) can offer new possibilities for social networking and communication.
 
 I'd love for you to check it out, contribute, or share your thoughts.🌍🌐
